@@ -17,3 +17,11 @@
 ### 7. Strophoid Plot - Plot the strophoid curve defined by y^2(a-x) = x^2(a+x) using Python.
 
 ### 8. Leminiscatet Plot - Plot the lemniscate curve defined by (a^2)*y^2 = (x^2)*(a^2 - x^2) using Python.
+
+### 9. Line Graph - Plot a line graph using Python.
+
+### 10. Linear Graph - Plot a linear graph using Python.
+
+### 11. Scattered Graph - Plot a scattered graph using Python.
+
+### 12. Exponential Curve - Plot an exponential curve (e^x) using Python.
